@@ -1,0 +1,4 @@
+**/node_modules
+src/bytecodes
+src/dist
+hardhat/
